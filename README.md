@@ -1,2 +1,3 @@
 # Split-Analysis
 A jupyter notebook application that uses pandas and matplotlib to analyse the splits on a swimming set.
+This person did a set of 25x100s suited and his stroke count and splits were taken by each 25 on a 25 yard pool. I then, used this csv file to create a dataframe to visualize the data. This application creates a plot with "time x number" to show the progression in the entire set by hundred. It makes a list of the average yard per stroke in each 100, and a adds a new column to the database to show the distance per stroke in each 25. Lastly, it makes a new plot to show the splits in each 25 on all of the hundreds, so we can see the difference on how he starts and finishes.
